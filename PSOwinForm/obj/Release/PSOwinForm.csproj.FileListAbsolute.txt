@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\PSOwinForm.exe.config
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\PSOwinForm.exe
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\PSOwinForm.pdb
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\DLLNOVOWrapper.dll
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\DLLNOVOWrapper.pdb
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.ERGA.resources
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.exe
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.pdb
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\PSOwinForm.exe.manifest
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Release\PSOwinForm.application
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.exe.manifest
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Release\PSOwinForm.application

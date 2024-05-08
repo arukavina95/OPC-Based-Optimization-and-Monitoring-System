@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Debug\PSOwinForm.exe.config
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Debug\PSOwinForm.exe
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Debug\PSOwinForm.pdb
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Debug\DLLNOVOWrapper.dll
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\bin\Debug\DLLNOVOWrapper.pdb
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.Form1.resources
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.exe
+C:\Users\Administrator\source\repos\PSOptimization\PSOwinForm\obj\Debug\PSOwinForm.pdb

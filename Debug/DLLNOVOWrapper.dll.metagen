@@ -1,0 +1,28 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly DLLNOVOWrapper, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class DLLNOVOWrapper.extInputs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double Level : Public
+    Double Vrijeme : Public
+    Double Protok : Public
+    Double PumpStatus : Public
+    Double watchdogRead : Public
+Class DLLNOVOWrapper.ModelWrapp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double pumpStatus : Public
+    Double nlpStatus : Public
+    Double Out8 : Public
+    Double mvstatus : Public
+  Methods:
+    initialize(): PrivateScope, Public, HideBySig
+    step(): PrivateScope, Public, HideBySig
+    terminate(): PrivateScope, Public, HideBySig
+    setExternalInputs(extInputs): PrivateScope, Public, HideBySig
+    getExternalOutputs(): PrivateScope, Public, HideBySig

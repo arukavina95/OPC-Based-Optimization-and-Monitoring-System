@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DLLNOVOWrapper.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLLNOVOWrapper.vcxproj -> C:\Users\Administrator\source\repos\PSOptimization\Release\DLLNOVOWrapper.dll
